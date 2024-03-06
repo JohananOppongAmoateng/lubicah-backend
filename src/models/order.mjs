@@ -1,5 +1,5 @@
 import mongoose, {Schema} from "mongoose";
-import {OrderItemSchema} from "./OrderItem.mjs"
+import {OrderItemSchema} from "./orderItem.mjs"
 
 
 const OrderSchema = {

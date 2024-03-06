@@ -1,5 +1,5 @@
 import mongoose, {Schema} from "mongoose";
-import {MenuItemSchema} from "./Menu-Item.mjs"
+import {MenuItemSchema} from "./menu-Item.mjs"
 
 export const OrderItemSchema = {
     date: {
